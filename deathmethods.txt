@@ -1,0 +1,16 @@
+fragged
+killed
+headshot
+splattered
+sniped
+assassinated
+gibbed
+exploded
+battered
+shot
+eliminated
+froze
+electrocuted
+smothered
+destroyed
+ventilated

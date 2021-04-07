@@ -1,0 +1,3892 @@
+accept
+add
+admire
+admit
+advise
+afford
+agree
+alert
+allow
+amuse
+analyse
+announce
+annoy
+answer
+apologise
+appear
+applaud
+appreciate
+approve
+argue
+arrange
+arrest
+arrive
+ask
+attach
+attack
+attempt
+attend
+attract
+avoid
+back
+bake
+balance
+ban
+bang
+bare
+bat
+bathe
+battle
+beam
+beg
+behave
+belong
+bleach
+bless
+blind
+blink
+blot
+blush
+boast
+boil
+bolt
+bomb
+book
+bore
+borrow
+bounce
+bow
+box
+brake
+branch
+breathe
+bruise
+brush
+bubble
+bump
+burn
+bury
+buzz
+calculate
+call
+camp
+care
+carry
+carve
+cause
+challenge
+change
+charge
+chase
+cheat
+check
+cheer
+chew
+choke
+chop
+claim
+clap
+clean
+clear
+clip
+close
+coach
+coil
+collect
+colour
+comb
+command
+communicate
+compare
+compete
+complain
+complete
+concentrate
+concern
+confess
+confuse
+connect
+consider
+consist
+contain
+continue
+copy
+correct
+cough
+count
+cover
+crack
+crash
+crawl
+cross
+crush
+cry
+cure
+curl
+curve
+cycle
+dam
+damage
+dance
+dare
+decay
+deceive
+decide
+decorate
+delay
+delight
+deliver
+depend
+describe
+desert
+deserve
+destroy
+detect
+develop
+disagree
+disappear
+disapprove
+disarm
+discover
+dislike
+divide
+double
+doubt
+drag
+drain
+dream
+dress
+drip
+drop
+drown
+drum
+dry
+dust
+earn
+educate
+embarrass
+employ
+empty
+encourage
+end
+enjoy
+enter
+entertain
+escape
+examine
+excite
+excuse
+exercise
+exist
+expand
+expect
+explain
+explode
+extend
+face
+fade
+fail
+fancy
+fasten
+fax
+fear
+fence
+fetch
+file
+fill
+film
+fire
+fit
+fix
+flap
+flash
+float
+flood
+flow
+flower
+fold
+follow
+fool
+force
+form
+found
+frame
+frighten
+fry
+gather
+gaze
+glow
+glue
+grab
+grate
+grease
+greet
+grin
+grip
+groan
+guarantee
+guard
+guess
+guide
+hammer
+hand
+handle
+hang
+happen
+harass
+harm
+hate
+haunt
+head
+heal
+heap
+heat
+help
+hook
+hop
+hope
+hover
+hug
+hum
+hunt
+hurry
+identify
+ignore
+imagine
+impress
+improve
+include
+increase
+influence
+inform
+inject
+injure
+instruct
+intend
+interest
+interfere
+interrupt
+introduce
+invent
+invite
+irritate
+itch
+jail
+jam
+jog
+join
+joke
+judge
+juggle
+jump
+kick
+kill
+kiss
+kneel
+knit
+knock
+knot
+label
+land
+last
+laugh
+launch
+learn
+level
+license
+lick
+lie
+lighten
+like
+list
+listen
+live
+load
+lock
+long
+look
+love
+man
+manage
+march
+mark
+marry
+match
+mate
+matter
+measure
+meddle
+melt
+memorise
+mend
+mess up
+milk
+mine
+miss
+mix
+moan
+moor
+mourn
+move
+muddle
+mug
+multiply
+murder
+nail
+name
+need
+nest
+nod
+note
+notice
+number
+obey
+object
+observe
+obtain
+occur
+offend
+offer
+open
+order
+overflow
+owe
+own
+pack
+paddle
+paint
+park
+part
+pass
+paste
+pat
+pause
+peck
+pedal
+peel
+peep
+perform
+permit
+phone
+pick
+pinch
+pine
+place
+plan
+plant
+play
+please
+plug
+point
+poke
+polish
+pop
+possess
+post
+pour
+practise
+pray
+preach
+precede
+prefer
+prepare
+present
+preserve
+press
+pretend
+prevent
+prick
+print
+produce
+program
+promise
+protect
+provide
+pull
+pump
+punch
+puncture
+punish
+push
+question
+queue
+race
+radiate
+rain
+raise
+reach
+realise
+receive
+recognise
+record
+reduce
+reflect
+refuse
+regret
+reign
+reject
+rejoice
+relax
+release
+rely
+remain
+remember
+remind
+remove
+repair
+repeat
+replace
+reply
+report
+reproduce
+request
+rescue
+retire
+return
+rhyme
+rinse
+risk
+rob
+rock
+roll
+rot
+rub
+ruin
+rule
+rush
+sack
+sail
+satisfy
+save
+saw
+scare
+scatter
+scold
+scorch
+scrape
+scratch
+scream
+screw
+scribble
+scrub
+seal
+search
+separate
+serve
+settle
+shade
+share
+shave
+shelter
+shiver
+shock
+shop
+shrug
+sigh
+sign
+signal
+sin
+sip
+ski
+skip
+slap
+slip
+slow
+smash
+smell
+smile
+smoke
+snatch
+sneeze
+sniff
+snore
+snow
+soak
+soothe
+sound
+spare
+spark
+sparkle
+spell
+spill
+spoil
+spot
+spray
+sprout
+squash
+squeak
+squeal
+squeeze
+stain
+stamp
+stare
+start
+stay
+steer
+step
+stir
+stitch
+stop
+store
+strap
+strengthen
+stretch
+strip
+stroke
+stuff
+subtract
+succeed
+suck
+suffer
+suggest
+suit
+supply
+support
+suppose
+surprise
+surround
+suspect
+suspend
+switch
+talk
+tame
+tap
+taste
+tease
+telephone
+tempt
+terrify
+test
+thank
+thaw
+tick
+tickle
+tie
+time
+tip
+tire
+touch
+tour
+tow
+trace
+trade
+train
+transport
+trap
+travel
+treat
+tremble
+trick
+trip
+trot
+trouble
+trust
+try
+tug
+tumble
+turn
+twist
+type
+undress
+unfasten
+unite
+unlock
+unpack
+untidy
+use
+vanish
+visit
+wail
+wait
+walk
+wander
+want
+warm
+warn
+wash
+waste
+watch
+water
+wave
+weigh
+welcome
+whine
+whip
+whirl
+whisper
+whistle
+wink
+wipe
+wish
+wobble
+wonder
+work
+worry
+wrap
+wreck
+wrestle
+wriggle
+x-ray
+yawn
+yell
+zip
+zoom
+adverbs
+abnormally
+absentmindedly
+accidentally
+acidly
+actually
+adventurously
+afterwards
+almost
+always
+angrily
+annually
+anxiously
+arrogantly
+awkwardly
+badly
+bashfully
+beautifully
+bitterly
+bleakly
+blindly
+blissfully
+boastfully
+boldly
+bravely
+briefly
+brightly
+briskly
+broadly
+busily
+calmly
+carefully
+carelessly
+cautiously
+certainly
+cheerfully
+clearly
+cleverly
+closely
+coaxingly
+colorfully
+commonly
+continually
+coolly
+correctly
+courageously
+crossly
+cruelly
+curiously
+daily
+daintily
+dearly
+deceivingly
+deeply
+defiantly
+deliberately
+delightfully
+diligently
+dimly
+doubtfully
+dreamily
+easily
+elegantly
+energetically
+enormously
+enthusiastically
+equally
+especially
+even
+evenly
+eventually
+exactly
+excitedly
+extremely
+fairly
+faithfully
+famously
+far
+fast
+fatally
+ferociously
+fervently
+fiercely
+fondly
+foolishly
+fortunately
+frankly
+frantically
+freely
+frenetically
+frightfully
+fully
+furiously
+generally
+generously
+gently
+gladly
+gleefully
+gracefully
+gratefully
+greatly
+greedily
+happily
+hastily
+healthily
+heavily
+helpfully
+helplessly
+highly
+honestly
+hopelessly
+hourly
+hungrily
+immediately
+innocently
+inquisitively
+instantly
+intensely
+intently
+interestingly
+inwardly
+irritably
+jaggedly
+jealously
+joshingly
+jovially
+joyfully
+joyously
+jubilantly
+judgementally
+justly
+keenly
+kiddingly
+kindheartedly
+kindly
+kissingly
+knavishly
+knottily
+knowingly
+knowledgeably
+kookily
+lazily
+less
+lightly
+likely
+limply
+lively
+loftily
+longingly
+loosely
+loudly
+lovingly
+loyally
+madly
+majestically
+meaningfully
+mechanically
+merrily
+miserably
+mockingly
+monthly
+more
+mortally
+mostly
+mysteriously
+naturally
+nearly
+neatly
+needily
+nervously
+never
+nicely
+noisily
+not
+obediently
+obnoxiously
+oddly
+offensively
+officially
+often
+only
+openly
+optimistically
+overconfidently
+owlishly
+painfully
+partially
+patiently
+perfectly
+physically
+playfully
+politely
+poorly
+positively
+potentially
+powerfully
+promptly
+properly
+punctually
+quaintly
+quarrelsomely
+queasily
+queerly
+questionably
+questioningly
+quicker
+quickly
+quietly
+quirkily
+quizzically
+rapidly
+rarely
+readily
+really
+reassuringly
+recklessly
+regularly
+reluctantly
+repeatedly
+reproachfully
+restfully
+righteously
+rightfully
+rigidly
+roughly
+rudely
+sadly
+safely
+scarcely
+scarily
+searchingly
+sedately
+seemingly
+seldom
+selfishly
+separately
+seriously
+shakily
+sharply
+sheepishly
+shrilly
+shyly
+silently
+sleepily
+slowly
+smoothly
+softly
+solemnly
+solidly
+sometimes
+soon
+speedily
+stealthily
+sternly
+strictly
+successfully
+suddenly
+surprisingly
+suspiciously
+sweetly
+swiftly
+sympathetically
+tenderly
+tensely
+terribly
+thankfully
+thoroughly
+thoughtfully
+tightly
+tomorrow
+too
+tremendously
+triumphantly
+truly
+truthfully
+ultimately
+unabashedly
+unaccountably
+unbearably
+unethically
+unexpectedly
+unfortunately
+unimpressively
+unnaturally
+unnecessarily
+upbeat
+upliftingly
+upright
+upside-down
+upward
+upwardly
+urgently
+usefully
+uselessly
+usually
+utterly
+vacantly
+vaguely
+vainly
+valiantly
+vastly
+verbally
+very
+viciously
+victoriously
+violently
+vivaciously
+voluntarily
+warmly
+weakly
+wearily
+well
+wetly
+wholly
+wildly
+willfully
+wisely
+woefully
+wonderfully
+worriedly
+wrongly
+yawningly
+yearly
+yearningly
+yesterday
+yieldingly
+youthfully
+interjections
+aah
+ack
+agreed
+ah
+aha
+ahem
+alas
+all right
+amen
+argh
+as if
+aw
+ay
+aye
+bah
+blast
+boo hoo
+bother
+boy
+brr
+by golly
+bye
+cheerio
+cheers
+chin up
+come on
+crikey
+curses
+dear me
+doggone
+drat
+duh
+easy does it
+eek
+egads
+er
+exactly
+fair enough
+fiddle-dee-dee
+fiddlesticks
+fie
+foo
+fooey
+gadzooks
+gah
+gangway
+g'day
+gee
+gee whiz
+geez
+gesundheit
+get lost
+get outta here
+go on
+good
+good golly
+good job
+gosh
+gracious
+great
+grr
+gulp
+ha
+ha-ha
+hah
+hallelujah
+harrumph
+haw
+hee
+here
+hey
+hmm
+ho hum
+hoo
+hooray
+hot dog
+how
+huh
+hum
+humbug
+hurray
+huzza
+I say
+ick
+is it
+ixnay
+jeez
+just kidding
+just a sec
+just wondering
+kapish
+la
+la-di-dah
+lo
+look
+look here
+long time
+lordy
+man
+meh
+mmm
+most certainly
+my
+my my
+my word
+nah
+naw
+never
+no
+no can do
+nooo
+not
+no thanks
+no way
+nuts
+oh
+oho
+oh-oh
+oh no
+okay
+okey-dokey
+om
+oof
+ooh
+oopsey
+over
+oy
+oyez
+peace
+pff
+pew
+phew
+pish posh
+psst
+ptui
+quite
+rah
+rats
+ready
+right
+right on
+roger
+roger that
+rumble
+say
+see ya
+shame
+shh
+shoo
+shucks
+sigh
+sleep tight
+snap
+sorry
+sssh
+sup
+ta
+ta-da
+ta ta
+take that
+tally ho
+tch
+thanks
+there
+there there
+time out
+toodles
+touche
+tsk
+tsk-tsk
+tut
+tut-tut
+ugh
+uh
+uh-oh
+um
+ur
+urgh
+very nice
+very well
+voila
+vroom
+wah
+well
+well done
+well, well
+what
+whatever
+whee
+when
+whoa
+whoo
+whoopee
+whoops
+whoopsey
+whew
+why
+word
+wow
+wuzzup
+ya
+yea
+yeah
+yech
+yikes
+yippee
+yo
+yoo-hoo
+you bet
+you don't say
+you know
+yow
+yum
+yummy
+zap
+zounds
+zowie
+zzz
+anime
+Aaron Carter
+Aaron Eckhart
+Abbie Cornish
+Ace Young
+Adam Brody
+Adam Duritz
+Adam Lambert
+Adam Levine
+Adam Sandler
+Adele
+Adrian Grenier
+Adrien Brody
+Akshay Kumar
+Alanis Morissette
+Alec Baldwin
+Alessandra Ambrosio
+Alex McCord
+Alex O'Loughlin
+Alex Pettyfer
+Alex Rodriguez
+Alexander Ludwig
+Alexander Skarsgard
+Alexis Bledel
+Ali Fedotowsky
+Ali Larter
+Alicia Keys
+Alicia Silverstone
+Alison Sweeney
+Allison Williams
+Alyson Hannigan
+Alyssa Milano
+Amanda Bynes
+Amanda Peet
+Amanda Seyfried
+Amber Portwood
+Amber Riley
+Amber Rose
+America Ferrera
+Amitabh Bachchan
+Amy Adams
+Amy Poehler
+Amy Winehouse
+Ana Ortiz
+Anderson Cooper
+Andrew Firestone
+Andrew Garfield
+Andy Cohen
+Andy Roddick
+Andy Samberg
+Angelina Jolie
+Angelina Pivarnick
+Angie Harmon
+Anna Faris
+Anna Kendrick
+Anna Kournikova
+Anna Nicole Smith
+Anna Paquin
+Anna Wintour
+AnnaLynne McCord
+AnnaSophia Robb
+Anne Hathaway
+Annette Bening
+Ariana Grande
+Armie Hammer
+Arnold Schwarzenegger
+Ashlee Simpson
+Ashley Benson
+Ashley Greene
+Ashley Hebert
+Ashley Judd
+Ashley Olsen
+Ashley Tisdale
+Ashton Kutcher
+Aubrey O'Day
+Audrina Patridge
+Avril Lavigne
+B.J. Novak
+Balthazar Getty
+Bar Refaeli
+Barack Obama
+Barbara Walters
+Barry Zito
+Becki Newton
+Ben Affleck
+Ben Flajnik
+Ben Roethlisberger
+Ben Stiller
+Benedict Cumberbatch
+Benicio Del Toro
+Benjamin McKenzie
+Benji Madden
+Beth Ostrosky Stern
+Bethenny Frankel
+Betty White
+Beyonce Knowles
+Beyoncé Knowles
+Bill Rancic
+Billy Bob Thornton
+Billy Crudup
+Billy Ray Cyrus
+Blake Lewis
+Blake Lively
+Blake Shelton
+Bob Harper
+Bobbi Kristina Brown
+Bobby Brown
+Boo Boo Stewart
+Brad Goreski
+Brad Paisley
+Brad Pitt
+Brad Womack
+Bradley Cooper
+Brandi Glanville
+Brandon Davis
+Brandy Norwood
+Bret Michaels
+Brian Austin Green
+Bridget Marquardt
+Bridget Moynahan
+Bristol Palin
+Britney Spears
+Brittany Murphy
+Brittany Snow
+Brody Jenner
+Brooke Burke
+Brooke Mueller
+Brooke Shields
+Brooklyn Decker
+Bruce Jenner
+Bruce Willis
+Bruno Mars
+Bryce Dallas Howard
+Busy Philipps
+Cacee Cobb
+Caitlyn Jenner
+Caleb Followill
+Calista Flockhart
+Calvin Harris
+Cam Gigandet
+Cameron Diaz
+Camila Alves
+Camilla Belle
+Camille Grammer
+Candice Accola
+Cara Delevingne
+Carey Mulligan
+Carly Rae Jepsen
+Carmelo Anthony
+Carmen Electra
+Caroline Manzo
+Carrie Ann Inaba
+Carrie Underwood
+Carson Daly
+Carson Palmer
+Cash Warren
+Cat Deeley
+Cate Blanchett
+Catherine Malandrino
+Catherine Zeta-Jones
+Cee Lo Green
+Celine Dion
+Chace Crawford
+Chad Kroeger
+Chad Michael Murray
+Chad Ochocinco
+Chandra Wilson
+Channing Tatum
+Charlie Sheen
+Charlize Theron
+Chelsea Clinton
+Chelsea Handler
+Cher
+Cheryl Burke
+Cheryl Cole
+Cheyenne Kimball
+Chloe Moretz
+Chord Overstreet
+Chris Brown
+Chris Colfer
+Chris Cuomo
+Chris Evans
+Chris Harrison
+Chris Hemsworth
+Chris Klein
+Chris Meloni
+Chris Noth
+Chris Pine
+Chris Pratt
+Chrissy Teigen
+Christian Bale
+Christian Slater
+Christie Brinkley
+Christina Aguilera
+Christina Applegate
+Christina Hendricks
+Christina Milian
+Christine Taylor
+Christy Turlington
+Ciara
+Cindy Crawford
+Cisco Adler
+Claire Danes
+Clive Owen
+Cobra Starship
+Colin Farrell
+Colin Firth
+Colton Haynes
+Conan O'Brien
+Connie Britton
+Cory Monteith
+Courteney Cox
+Courtney Love
+Criss Angel
+Cristiano Ronaldo
+Crystal Harris
+Curtis Stone
+Cynthia Nixon
+DJ AM
+DJ Cassidy
+DJ Kiss
+DJ Pauly D
+DSquared2
+Daisy De La Hoya
+Dakota Fanning
+Dane Cook
+Daniel Craig
+Daniel Radcliffe
+Danielle Staub
+Darren Criss
+Dave Annable
+Dave Navarro
+David Arquette
+David Beckham
+David Berrie
+David Boreanaz
+David Cook
+David Copperfield
+David Guetta
+David Katzenberg
+David Letterman
+David Schwimmer
+David Spade
+Dax Shepard
+Dean McDermott
+Debra Messing
+Demi Lovato
+Demi Moore
+Denis Leary
+Denise Richards
+Dennis Rodman
+Derek Hough
+Derek Jeter
+Derrick Rose
+Desiree Hartsock
+Diane Kruger
+Dianna Agron
+Diddy
+Dina Manzo
+Djimon Hounsou
+Dolly Parton
+Donald Faison
+Donald Trump
+Dr. Dre
+Dr. Phil McGraw
+Drake
+Drew Barrymore
+Dwayne Johnson
+Ed Sheeran
+Ed Westwick
+Eddie Cibrian
+Eddie Murphy
+Eddie Redmayne
+Edie Falco
+Edward Burns
+Edward Norton
+Elin Nordegren
+Elisabeth Hasselbeck
+Elisabeth Moss
+Elisabetta Canalis
+Elizabeth Banks
+Elizabeth Olsen
+Elizabeth Taylor
+Elle Fanning
+Ellen DeGeneres
+Ellen Page
+Ellen Pompeo
+Ellie Goulding
+Elton John
+Emile Hirsch
+Emilio Estevez
+Emily Blunt
+Emily Maynard
+Emily VanCamp
+Eminem
+Emma Roberts
+Emma Stone
+Emma Watson
+Emmy Rossum
+Eric Dane
+Erin Andrews
+Ethan Hawke
+Eva Longoria
+Eva Mendes
+Evan Rachel Wood
+Evangeline Lilly
+Fabrizio Moretti
+Faith Hill
+Fantasia Barrino
+Farrah Abraham
+Felicity Huffman
+Fergie
+Fernando Alonso
+Fleetwood Mac
+Florence Henderson
+Florence Welch
+Florida Georgia Line
+Floyd Mayweather
+Foo Fighters
+Forest Whitaker
+Frank Ocean
+Frankie Delgado
+Frankie Muniz
+Fred Durst
+Freddie Prinze, Jr.
+Freida Pinto
+Gabourey Sidibe
+Gabriel Aubry
+Gabrielle Union
+Gareth Bale
+Garth Brooks
+Gary Oldman
+Gary Shirley
+Gavin Degraw
+Gavin Rossdale
+George Stephanopoulos
+George Clooney
+George Lopez
+Gerard Butler
+Gilles Marini
+Ginnifer Goodwin
+Gisele Bundchen
+Gisele Bündchen
+Giuliana Rancic
+Goldie Hawn
+Gordon Ramsay
+Greg Grunberg
+Guy Ritchie
+Gwen Stefani
+Gwyneth Paltrow
+Hailee Steinfeld
+Hailey Glassman
+Halle Berry
+Hank Baskett
+Harrison Ford
+Harry Styles
+Hayden Christensen
+Hayden Panettiere
+Haylie Duff
+Heath Ledger
+Heather Graham
+Heather Locklear
+Heather McDonald
+Heather Morris
+Heidi Klum
+Heidi Montag
+Helen Hunt
+Helen Mirren
+Henry Cavill
+Hilary Duff
+Hilary Swank
+Hillary Clinton
+Holly Madison
+Holly Montag
+Howard Stern
+Hugh Dancy
+Hugh Grant
+Hugh Hefner
+Hugh Jackman
+Hugh Laurie
+Hunter Parrish
+Ian Somerhalder
+Idina Menzel
+Iggy Azalea
+Isabella Rossellini
+Isla Fisher
+Ivanka Trump
+J-Woww
+JC Chasez
+Jack Nicholson
+Jackie Chan
+Jackson Rathbone
+Jacqueline Laurita
+Jada Pinkett Smith
+Jaden Smith
+Jaime King
+Jaime Pressly
+Jake Gyllenhaal
+Jake Pavelka
+James Blunt
+James Denton
+James Franco
+James Patterson
+James Rodriguez
+James Woods
+Jamie Campbell Bower
+Jamie Foxx
+Jamie Kennedy
+Jamie Lynn Spears
+Jamie-Lynn Sigler
+Jane Krakowski
+Jane Lynch
+Janelle Monae
+Janet Jackson
+Janice Dickinson
+January Jones
+Jared Leto
+Jason Aldean
+Jason Bateman
+Jason Lee
+Jason Lewis
+Jason Mesnick
+Jason Mraz
+Jason Ritter
+Jason Segel
+Jason Sudeikis
+Javier Bardem
+Jay Cutler
+Jay Leno
+Jay Lyon
+Jay Z
+Jeff Lewis
+Jeff Probst
+Jen Schefft
+Jenna Dewan
+Jenna Elfman
+Jenna Fischer
+Jenna Ushkowitz
+Jennie Garth
+Jennifer Aniston
+Jennifer Connelly
+Jennifer Garner
+Jennifer Grey
+Jennifer Hudson
+Jennifer Lawrence
+Jennifer Lopez
+Jennifer Love Hewitt
+Jennifer Meyer
+Jenny McCarthy
+Jensen Ackles
+Jeremy Piven
+Jerry Ferrara
+Jerry O'Connell
+Jerry Seinfeld
+Jersey Shore
+Jesse Eisenberg
+Jesse James
+Jesse Tyler Ferguson
+Jesse Williams
+Jessica Alba
+Jessica Biel
+Jessica Chastain
+Jessica Lowndes
+Jessica Simpson
+Jessica Stroup
+Jessica Szohr
+Jill Zarin
+Jillian Harris
+Jillian Michaels
+Jim Carrey
+Jim Parsons
+Jimmy Buffett
+Jimmy Fallon
+Jimmy Kimmel
+JoAnna Garcia
+Joe Francis
+Joe Jonas
+Joe Manganiello
+Joel Madden
+Joel McHale
+John Cusack
+John F. Kennedy, Jr.
+John Krasinski
+John Legend
+John Mayer
+John Stamos
+John Travolta
+Johnny Depp
+Johnny Knoxville
+Jon Gosselin
+Jon Hamm
+Jon Heder
+Jon Lester
+Jonah Hill
+Jonas Brothers
+Jonathan Adler
+Jonathan Rhys Meyers
+Jordana Brewster
+Jordin Sparks
+Joseph Gordon-Levitt
+Josh Bowman
+Josh Brolin
+Josh Duhamel
+Josh Hartnett
+Josh Holloway
+Josh Lucas
+Joshua Jackson
+Jude Law
+Judi Dench
+Judy Sheindlin
+Julia Roberts
+Julian McMahon
+Julianne Hough
+Julianne Moore
+Julie Bowen
+Juliette Lewis
+Justin Bieber
+Justin Kirk
+Justin Long
+Justin Theroux
+Justin Trudeau
+Justin Timberlake
+Kaley Cuoco
+Kaley Cuoco-Sweeting
+Kanye West
+Kara DioGuardi
+Karina Smirnoff
+Kat DeLuna
+Kat Graham
+Kate Beckinsale
+Kate Bosworth
+Kate Gosselin
+Kate Hudson
+Kate Middleton
+Kate Moss
+Kate Upton
+Kate Walsh
+Kate Winslet
+Katharine McPhee
+Katherine Heigl
+Kathy Griffin
+Kathy Ireland
+Katie Cassidy
+Katie Couric
+Katie Holmes
+Katrina Bowden
+Katy Perry
+Keanu Reeves
+Keira Knightley
+Keith Urban
+Kellan Lutz
+Kellie Pickler
+Kelly Bensimon
+Kelly Clarkson
+Kelly Cutrone
+Kelly Osbourne
+Kelly Preston
+Kelly Ripa
+Kelly Rowland
+Kelly Rutherford
+Kelly Slater
+Kelsey Grammer
+Kendall Jenner
+Kendra Wilkinson
+Kenny Chesney
+Keri Hilson
+Keri Russell
+Kerr Smith
+Kerry Diamond
+Kerry Washington
+Kesha
+Kevin Connolly
+Kevin Durant
+Kevin Federline
+Kevin Hart
+Kevin Jonas
+Keyshia Cole
+Khloe Kardashian
+Kid Rock
+Kiefer Sutherland
+Kim Cattrall
+Kim Kardashian
+Kim Zolciak
+Kimberly Stewart
+Kimora Lee Simmons
+Kirsten Dunst
+Kirstie Alley
+Kobe Bryant
+Kourtney Kardashian
+Kris Allen
+Kris Humphries
+Kris Jenner
+Kris Polaha
+Krista Allen
+Kristen Bell
+Kristen Stewart
+Kristen Wiig
+Kristin Cavallari
+Kristin Davis
+Kyle Howard
+Kyle Richards
+Kylie Jenner
+Kyra Sedgwick
+L.A. Reid
+Lady Gaga
+Lamar Odom
+Lana Del Rey
+Lance Armstrong
+Lance Bass
+Lara Flynn Boyle
+Larry King
+Laura Dern
+Lauren Conrad
+Lauren Graham
+Lauren Holly
+LeAnn Rimes
+LeBron James
+Lea Michele
+Lee DeWyze
+Leelee Sobieski
+Leighton Meester
+Lena Dunham
+Lenny Kravitz
+Leona Lewis
+Leonardo DiCaprio
+Levi Johnston
+Lewis Hamilton
+Liam Hemsworth
+Liam Neeson
+Liam Payne
+Liev Schreiber
+Lily Aldridge
+Lily Allen
+Lily Collins
+Lindsay Lohan
+Lindsey Vonn
+Lionel Messi
+Lisa Bonet
+Lisa Edelstein
+Lisa Kudrow
+Lisa Marie Presley
+Lisa Snowdon
+Lo Bosworth
+Lorde
+Louis Tomlinson
+LuAnn De Lesseps
+Lucy Hale
+Lucy Liu
+Ludacris
+Luke Bryan
+Luke Wilson
+Lupita Nyong'o
+Maci Bookout
+Maddox Jolie-Pitt
+Madonna
+Maggie Gyllenhaal
+Mahendra Singh Dhoni
+Maksim Chmerkovskiy
+Malin Akerman
+Mandy Moore
+Manny Pacquiao
+Marc Anthony
+Marcia Cross
+Marcus Schenkenberg
+Maria Menounos
+Maria Sharapova
+Maria Shriver
+Mariah Carey
+Mario Lopez
+Mariska Hargitay
+Mark Salling
+Mark Wahlberg
+Marni Senofonte
+Maroon 5
+Martha Stewart
+Martin Lawrence
+Mary J. Blige
+Mary-Kate Olsen
+Mary-Louise Parker
+Matt Bomer
+Matt Damon
+Matt Dillon
+Matt Lanter
+Matt Leinart
+Matthew Bellamy
+Matthew Broderick
+Matthew Fox
+Matthew McConaughey
+Matthew Morrison
+Matthew Perry
+Max Greenfield
+Meg Ryan
+Megan Fox
+Mel B
+Mel Gibson
+Melissa Gorga
+Melissa McCarthy
+Melissa Rycroft
+Mena Suvari
+Meryl Streep
+Mia Farrow
+Michael Bolton
+Michael Bublé
+Michael C. Hall
+Michael Jackson
+Michael Urie
+Michelle Obama
+Michelle Trachtenberg
+Michelle Williams
+Mike Fisher
+Mila Kunis
+Miley Cyrus
+Milo Ventimiglia
+Mindy Kaling
+Minka Kelly
+Minnie Driver
+Mira Sorvino
+Miranda Kerr
+Miranda Lambert
+Mischa Barton
+Mo'Nique
+Molly Shannon
+Molly Sims
+Nacho Figueras
+Nadya Suleman
+Naomi Campbell
+Naomi Watts
+Natalie Portman
+Natasha Bedingfield
+Natasha Richardson
+Naya Rivera
+Ndamukong Suh
+Ne-Yo
+NeNe Leakes
+Neil Patrick Harris
+Nelly Furtado
+Neve Campbell
+Neymar
+Niall Horan
+Nicholas Hoult
+Nick Cannon
+Nick Carter
+Nick Jonas
+Nick Lachey
+Nicki Minaj
+Nicky Hilton
+Nicolas Cage
+Nicole Kidman
+Nicole Richie
+Nicole Scherzinger
+Nicollette Sheridan
+Nikki Reed
+Nina Dobrev
+Novak Djokovic
+Odette Yustman
+Olivia Munn
+Olivia Palermo
+Olivia Wilde
+One Direction
+Oprah Winfrey
+Orlando Bloom
+Owen Wilson
+Ozzy Osbourne
+Padma Lakshmi
+Pam Anderson
+Paris Hilton
+Parker Posey
+Patricia Arquette
+Patrick Dempsey
+Patrick Schwarzenegger
+Patrick Swayze
+Paul McCartney
+Paul Rudd
+Paul Sculfor
+Paul Wesley
+Paula Abdul
+Penelope Cruz
+Penn Badgley
+Pete Wentz
+Peter Facinelli
+Petra Nemcova
+Pharrell Williams
+Phil Mickelson
+Pink
+Pippa Middleton
+Pitbull
+Portia De Rossi
+Prince
+Prince Charles
+Prince Harry
+Prince William
+Princess Diana
+Queen Latifah
+Quentin Tarantino
+Rachel Bilson
+Rachel McAdams
+Rachel Weisz
+Rachel Zoe
+Rafael Nadal
+Ramona Singer
+Randy Jackson
+Rashida Jones
+Ray J
+Rebecca Gayheart
+Rebecca Romijn
+Rebel Wilson
+Reese Witherspoon
+Reggie Bush
+Renee Zellweger
+Richard Gere
+Richie Sambora
+Rick Salomon
+Ricki Lake
+Ricky Martin
+Rihanna
+Rita Ora
+Rob Kardashian
+Rob Lowe
+Robert Downey Jr.
+Robert Pattinson
+Roberto Martinez
+Robin Roberts
+Robin Thicke
+Robin Wright Penn
+Roger Federer
+Rolling Stones
+Ronnie Ortiz-Magro
+Rooney Mara
+Rory McIlroy
+Rosario Dawson
+Rose Byrne
+Rose McGowan
+Rosie Huntington-Whiteley
+Rosie O'Donnell
+Roxy Olin
+Rumer Willis
+Rupert Grint
+Rush Limbaugh
+Russell Brand
+Russell Crowe
+Ryan Adams
+Ryan Cabrera
+Ryan Dunn
+Ryan Gosling
+Ryan Kwanten
+Ryan Phillippe
+Ryan Reynolds
+Ryan Seacrest
+Sacha Baron Cohen
+Sadie Frost
+Salma Hayek
+Salman Khan
+Samantha Ronson
+Sammi Giancola
+Sandra Bullock
+Sandra Oh
+Sarah Hyland
+Sarah Jessica Parker
+Sarah Michelle Gellar
+Sarah Palin
+Scarlett Johansson
+Scott Baio
+Scott Disick
+Scott Porter
+Scott Speedman
+Scott Wolf
+Scotty McCreery
+Seal
+Sean Combs
+Sean Hannity
+Sean Lennon
+Sean Penn
+Seann William Scott
+Sebastian Vettel
+Selena Gomez
+Seth Rogen
+Shailene Woodley
+Shakira
+Shania Twain
+Shannen Doherty
+Shar Jackson
+Sharon Osbourne
+Shay Mitchell
+Shenae Grimes
+Sherri Shepherd
+Sheryl Crow
+Shia LaBeouf
+Shiloh Jolie-Pitt
+Shoshanna Lonstein
+Sienna Miller
+Simon Cowell
+Simon Doonan
+Skrillex
+Snooki
+Snoop Dogg
+Sofia Vergara
+Sofía Vergara
+Solange Knowles
+Sonja Morgan
+Sophia Bush
+Sophie Monk
+Spencer Pratt
+Stacy Keibler
+Star Jones
+Stavros Niarchos III
+Stephanie Pratt
+Stephen Amell
+Stephen Colletti
+Stephen Dorff
+Stephen Moyer
+Steve Carell
+Steven Tyler
+Stuart Townsend
+Suri Cruise
+Susan Boyle
+Swizz Beatz
+T.R. Knight
+Talan Torriero
+Tamron Hall
+Tara Reid
+Taraji P. Henson
+Tate Donovan
+Taye Diggs
+Taylor Armstrong
+Taylor Lautner
+Taylor Momsen
+Taylor Swift
+Teresa Giudice
+Teri Hatcher
+Terrence Howard
+The Bachelorette
+The Eagles
+The Hills
+The Situation
+Tiesto
+Tiffani Thiessen
+Tiger Woods
+Tila Tequila
+Tim Gunn
+Tim McGraw
+Tina Fey
+Tinsley Mortimer
+Tobey Maguire
+Toby Keith
+Tom Brady
+Tom Cruise
+Tom Felton
+Tom Hanks
+Tommy Lee
+Toni Collette
+Tony Parker
+Tony Romo
+Tori Spelling
+Tracy Morgan
+Travis Barker
+Trevor Donovan
+Troian Bellisario
+Ty Burrell
+Tyler Posey
+Tyra Banks
+Uma Thurman
+Usher
+Vampire Weekend
+Vanessa Hudgens
+Vanessa Minnillo
+Vanessa Williams
+Vera Wang
+Victoria Beckham
+Victoria Justice
+Vienna Girardi
+Vin Diesel
+Vince Vaughn
+Vinny Guadagnino
+Viola Davis
+Whitney Houston
+Whitney Port
+Whoopi Goldberg
+Will Arnett
+Will Ferrell
+Will Smith
+Willow Smith
+Wilmer Valderrama
+Winona Ryder
+Wiz Khalifa
+Zac Brown Band
+Zac Efron
+Zach Braff
+Zach Galifianakis
+Zachary Levi
+Zachary Quinto
+Zayn Malik
+Zlatan Ibrahimovic
+Zoe Saldana
+Zooey Deschanel
+moods
+abandoned
+absent minded
+abused
+accepted
+accomplished
+accusatory
+accused
+admired
+adored
+adrift
+affectionate
+afraid
+aggravated
+aggressive
+agitated
+alarmed
+alert
+alienated
+alive
+alluring
+alone
+aloof
+amazed
+ambushed
+amused
+angry
+annoyed
+antagonistic
+anxious
+apathetic
+apologetic
+appalled
+appreciated
+appreciative
+apprehensive
+aroused
+ashamed
+astonished
+attacked
+attractive
+awake
+aware
+awe
+awed
+awestruck
+awkward
+bad
+baffled
+barren
+bashful
+beaten
+belittled
+benevolent
+berated
+betrayed
+bewildered
+bitchy
+bitter
+bittersweet
+blah
+blamed
+blank
+blissful
+blue
+bold
+bored
+bothered
+bouncy
+brave
+broken
+brooding
+bummed
+burdened
+burned-out
+callous
+calm
+capable
+carefree
+careless
+caring
+caustic
+cautious
+censored
+centered
+certain
+challenged
+charmed
+cheated
+cheerful
+cherished
+childish
+chipper
+choleric
+clean
+clear
+clever
+close
+closed
+clueless
+clumsy
+cold
+comfortable
+committed
+compassionate
+competent
+competitive
+complacent
+complete
+concerned
+condemned
+condescension
+confident
+confining
+confused
+considerate
+contemplative
+contempt
+contemptuous
+content
+controlled
+conventional
+convicted
+cornered
+courageous
+cowardly
+cranky
+crappy
+crazy
+critical
+cross
+crushed
+curious
+cynical
+daring
+dark
+dashed
+dazed
+dead
+deceived
+dedicated
+defeated
+defenseless
+defensive
+defiant
+degraded
+dejected
+delicate
+delighted
+demoralized
+dependent
+depressed
+deprived
+derisive
+deserted
+desired
+desolate
+despair
+desperate
+destroyed
+detached
+determined
+devastated
+devious
+devoted
+didactic
+different
+difficult
+dignified
+dirty
+disappointed
+disbelieving
+discarded
+disconnected
+discontent
+discontented
+discouraged
+disdainful
+disgraced
+disgusted
+disheartened
+dishonest
+disillusioned
+dismal
+dismayed
+disobedient
+disorganized
+disposable
+distant
+distracted
+distressed
+disturbed
+ditzy
+dorky
+doubtful
+down
+drained
+dreamy
+dreary
+dropped
+drunk
+dull
+dumb
+eager
+earnest
+ecstatic
+edgy
+effective
+elated
+embarassed
+embarrassed
+empathetic
+empowered
+empty
+enchanted
+encouraged
+energetic
+energized
+enlightened
+enraged
+enriched
+entertained
+enthralled
+enthusiastic
+envious
+erudite
+evasive
+evil
+exasperated
+excited
+excluded
+exhausted
+exhilarated
+expectant
+exploited
+exposed
+exuberant
+faithful
+fake
+fanciful
+fantastic
+fatalistic
+fatigued
+fearful
+fearless
+feisty
+fine
+flirty
+flustered
+foolish
+foreboding
+forgiven
+forgiving
+forgotten
+forthright
+fortunate
+framed
+frantic
+free
+friendly
+frightened
+frisky
+frustrated
+fulfilled
+full
+funny
+furious
+futile
+geeky
+generous
+gentle
+giddy
+giggly
+giving
+glad
+gloomy
+glorious
+good
+grateful
+great
+grieving
+groggy
+grouchy
+grumpy
+guarded
+guilty
+gullible
+handicapped
+happy
+harmonious
+hateful
+haughty
+haunted
+haunting
+healthy
+heard
+heartbroken
+heavy-hearted
+helpful
+helpless
+hesitant
+high
+honored
+hopeful
+hopeless
+horrible
+horrified
+hospitable
+hostile
+hot
+humble
+humiliated
+hungry
+hurt
+hyper
+hysterical
+idealistic
+idiotic
+idyllic
+ignorant
+ignored
+imaginative
+immune
+impatient
+impelled
+imperfect
+impertinent
+important
+impressed
+impulsive
+inadequate
+inattentive
+incensed
+inclusive
+incompetent
+incomplete
+incredulous
+indebted
+indecisive
+independent
+indescribable
+indifferent
+indignant
+industrious
+inept
+inferior
+inflated
+informed
+infuriated
+inhibited
+innocent
+innovative
+inquisitive
+insane
+insecure
+insensitive
+insidious
+insignificant
+insulted
+intense
+interested
+interrogated
+interrupted
+intimate
+intimidated
+intrigued
+invigorated
+invisible
+involved
+irate
+irked
+irrational
+irresponsible
+irritated
+isolated
+jaded
+jealous
+jinxed
+jolly
+jovial
+joyful
+joyous
+jubilant
+judged
+judgmental
+jumpy
+just
+justified
+kidded
+kind
+knowledgeable
+late
+lazy
+leery
+left
+let
+lethargic
+liable
+liberated
+liberating
+lifeless
+light-hearted
+liked
+listened
+listless
+logical
+lonely
+loose
+lost
+lousy
+lovable
+loved
+loving
+lucky
+lyrical
+mad
+malicious
+manipulated
+matter
+fact
+mean
+meditative
+melancholic
+melancholy
+mellow
+merciless
+merry
+mischievous
+miserable
+misinterpreted
+mistreated
+misunderstood
+mixed
+mocked
+mocking
+modest
+molested
+moody
+morose
+motivated
+mournful
+moved
+mystified
+naive
+nasty
+naughty
+nauseated
+needed
+needy
+negative
+neglected
+nerdy
+nervous
+neurotic
+nightmarish
+nonchalant
+nostalgic
+not
+specified
+noticed
+numb
+obeyed
+objective
+obligated
+obvious
+odd
+offended
+okay
+old
+open
+oppressed
+optimistic
+ornery
+control
+outraged
+overcome
+overjoyed
+overloaded
+overwhelmed
+overworked
+owned
+painful
+pampered
+panicky
+paralyzed
+passionate
+passive
+patient
+patronizing
+peaceful
+peeved
+pensive
+perky
+perplexed
+persecuted
+pessimistic
+pestered
+petrified
+petty
+phony
+pious
+pissed
+off
+playful
+pleased
+poor
+positive
+possessive
+powerful
+powerless
+practical
+predatory
+pressured
+private
+productive
+protected
+protective
+proud
+provoked
+prudish
+punished
+pushy
+puzzled
+questioned
+quiet
+quixotic
+quizzical
+rambunctious
+realistic
+reassured
+rebellious
+reborn
+receptive
+reckless
+recognized
+reconciled
+recumbent
+reflective
+refreshed
+regretful
+rejected
+rejuvenated
+relaxed
+released
+relieved
+reluctant
+reminiscent
+remorse
+renewed
+replaced
+replenished
+repressed
+rescued
+resentful
+reserved
+resistant
+resourceful
+respected
+responsible
+restless
+restricted
+revengeful
+reverent
+revitalized
+ribald
+rich
+ridicule
+ridiculous
+right
+rigid
+robbed
+romantic
+rotten
+rushed
+sabotaged
+sad
+safe
+sarcastic
+sardonic
+sassy
+satiated
+satiric
+satisfied
+saved
+scared
+scolded
+scorned
+secure
+seductive
+selfish
+self-assured
+self-centered
+self-confident
+self-conscious
+self-destructive
+self-reliant
+sensitive
+sentimental
+serene
+serious
+sexy
+shaken
+shamed
+sheepish
+shocked
+shunned
+shy
+sick
+silenced
+silly
+sincere
+sinful
+skeptical
+skillful
+slandered
+sleepy
+sluggish
+small
+smart
+smothered
+solemn
+somber
+soothed
+sorry
+special
+spiteful
+splendid
+spunky
+squashed
+stifled
+stimulated
+stingy
+strained
+stressed
+stretched
+strong
+stubborn
+stumped
+stunned
+stupid
+submissive
+successful
+suffocated
+suicidal
+sullen
+sunk
+super
+superior
+supported
+sure
+surly
+surprised
+suspenseful
+suspicious
+sympathetic
+tacky
+tactful
+talented
+talkative
+tame
+tarnished
+tasteful
+tearful
+teased
+tenacious
+tender
+tense
+tepid
+terrible
+terrific
+terrified
+terrifying
+tested
+testy
+thankful
+thoughtful
+threatened
+threatening
+thrifty
+thrilled
+tired
+tormented
+torn
+tortured
+touched
+tough
+tragic
+tranquil
+transformed
+trapped
+treasured
+trembly
+tremendous
+tricked
+troubled
+trusted
+trustful
+ugly
+unaccepted
+unappreciated
+unbalanced
+unburdened
+uncanny
+uncomfortable
+unconcerned
+uneven
+unfit
+unfriendly
+united
+unjust
+unknown
+unneeded
+unpleasant
+unreal
+unruly
+unwise
+up
+uplifted
+used
+useless
+vacant
+vague
+vain
+valid
+valued
+vengeful
+vexed
+vicious
+victimized
+victorious
+violated
+violent
+vivacious
+vivid
+void
+wacky
+warlike
+warm
+warmhearted
+warned
+wary
+wasted
+weak
+wealthy
+weary
+weird
+welcoming
+whimsical
+whole
+wild
+willful
+wishful
+witty
+worldly
+worried
+worse
+worthy
+wounded
+wrong
+yearning
+yellow
+yielding
+young
+youthful
+zany
+zealous
+Adam Rose
+Alberto Del Rio
+Alexander Rusev
+Andre the Giant
+Arn Anderson
+Bad News Barrett
+Barry Horowitz
+Batista
+Big Boss Man
+Big E
+Big Show
+Billy Gunn
+Booker T
+Bray Wyatt
+Bret "Hitman" Hart
+Brock Lesnar
+Brodus Clay
+Brutus "The Barber" Beefcake
+Cesaro
+Christian
+CM Punk
+Cody Rhodes
+Curt Hawkins
+Curtis Axel
+Damien Sandow
+Daniel Bryan
+Darren Young
+David Otunga
+Dean Ambrose
+Diego
+Dolph Ziggler
+Drew McIntyre
+Dwayne "The Rock" Johnson
+Erick Rowan
+Evan Bourne
+Fernando
+George "The Animal" Steele
+Goldust
+The Great Khali
+"Hacksaw" Jim Duggan
+Heath Slater
+The Honky Tonk Man
+Hornswoggle
+Hulk Hogan
+The Iron Shiek
+Jack Swagger
+Jake "The Snake" Roberts
+Jey Uso
+Jimmy Uso
+Jinder Mahal
+John Cena
+JTG
+Junkyard Dog
+Justin Gabriel
+Kane
+Kofi Kingston
+Koko B. Ware
+Luke Harper
+"Macho Man" Randy Savage
+Mark Henry
+"The Million Dollar Man" Ted DeBiase
+The Miz
+Mr. Perfect
+Paul "Mr. Wonderful" Orndorff
+"Nature Boy" Ric Flair
+R-Truth
+Randy Orton
+"Ravishing" Rick Rude
+Rey Mysterio
+Ricardo Rodriguez
+Rob Van Dam
+Roman Reigns
+"Rowdy" Roddy Piper
+Rusev
+Ryback
+Santino Marella
+Seth Rollins
+Sgt. Slaughter
+Shawn Michaels
+Sheamus
+Sin Cara
+"Stone Cold" Steve Austin
+"Superfly" Jimmy Snuka
+Titus O'Neil
+Triple H
+Tugboat
+Tully Blanchard
+Tyson Kidd
+The Undertaker
+The Ultimate Warrior
+William Regal
+Xavier Woods
+Yoshi Tatsu
+Zack Ryder
+Ælfwine
+Éomer
+Éomund
+Éothéod
+Éothain
+Éowyn
+Írildë
+Adalgrim Took
+Adanedhel
+Adanel
+Adrahil II
+Adrahil
+Aegnor
+Aerin
+Agarwaen
+Aikanáro
+Aiwendil
+Alatáriel
+Alatar
+Aldamir
+Aldaron
+Aldor
+Amandil
+Amdír
+Amlaith
+Amras
+Amrod
+Amroth
+Amrothos
+Anárion
+Anairë
+Anardil
+Anborn
+Ancalagon
+Andróg
+Andrast
+Andreth
+Anfauglir
+Angbor
+Angrod
+Annatar
+Ar Abattârik
+Ar Adûnakhôr
+Ar Gimilzôr
+Ar Inziladûn
+Ar Pharazôn
+Ar Sakalthôr
+Ar Zimraphel
+Ar- Zimrathôn
+Arador
+Araglas
+Aragorn I
+Aragorn II
+Aragost
+Arahad I
+Arahad II
+Arahael
+Aranarth
+Arantar
+Aranuir
+Araphant
+Araphor
+Arassuil
+Aratan
+Aratar
+Arathorn I
+Arathorn II
+Araval
+Aravir
+Aravorn
+Aredhel
+Argeleb I
+Argeleb II
+Argon
+Argonui
+Arien
+Aros
+Arthedain
+Arvedui
+Arvegil
+Arveleg I
+Arveleg II
+Arwen
+Asfaloth
+Atanatar I
+Atanatar II
+Aulë
+Ausir
+Avranc
+Azaghâl
+Azog
+Bëor
+Bór
+Balbo Baggins
+Baldor
+Balin
+Baragund
+Barahir (Steward)
+Barahir
+Baran
+Bard the Bowman
+Barliman Butterbur
+Bauglir
+Belecthor I
+Belecthor II
+Beleg of Arnor
+Beleg
+Belegorn
+Belegund
+Belemir
+Belladonna Took
+Beorn
+Berúthiel
+Bereg
+Beregond (Steward)
+Beregond
+Beren (Steward)
+Beren
+Bergil
+Bert
+Berylla Boffin
+Bifur
+Bilbo Baggins
+Bill Ferny
+Bill the Pony
+Bill the Troll
+Bofur
+Boldog
+Bolg
+Bombur
+Borin
+Boromir (Steward)
+Boromir
+Boron
+Borondir
+Brand II
+Brand
+Brandir
+Brego
+Bregolas
+Bregor
+Brodda
+Brytta Léofa
+Bucca of the Marish
+Bullroarer Took
+Bungo Baggins
+Círdan
+Calembel
+Calimehtar
+Calmacil
+Captain of the Haven
+Caranthir
+Carcharoth
+Castamir the Usurper
+Celeborn
+Celebrían
+Celebrimbor
+Celebrindor
+Celegorm
+Celepharn
+Cemendur
+Ceorl
+Cirion
+Ciryaher
+Ciryandil
+Ciryon
+Curufin
+Curunír
+Dáin I
+Dáin II Ironfoot
+Déagol
+Déor
+Dís (Middle-earth)
+Daeron
+Daughters of Finwë
+Deórwine
+Denethor (First Age)
+Denethor I
+Denethor II
+Dernhelm
+Diamond of Long Cleeve
+Dior (Steward)
+Dior
+Dori
+Dorlas
+Draugluin
+Duilin
+Durin II
+Durin III
+Durin IV
+Durin V
+Durin VI
+Durin VII
+Durin
+Durin's Bane
+Dwalin
+Eärendil of Gondor
+Eärendil
+Eärendur of Andúnië
+Eärendur of Arnor
+Eärendur son of Tar-Amandil
+Eärnil I
+Eärnil II
+Eärnur
+Eärwen
+Eöl
+Eönwë
+Ecthelion I
+Ecthelion II
+Ecthelion of the Fountain
+Egalmoth
+Eilinel
+Elanor the Fair
+Elbereth
+Eldacar of Arnor
+Eldacar of Gondor
+Eldarion
+Elemmakil
+Elendil
+Elendor
+Elendur of Arnor
+Elendur son of Isildur
+Elenna
+Elenwë
+Elessar
+Elfhelm
+Elfhild
+Elfwine
+Elladan
+Elmo
+Elrohir
+Elrond
+Elros
+Elu
+Eluréd and Elurín
+Elven-king
+Elwë
+Elwing
+Emeldir
+Emerië
+Enel
+Enelyë
+Eorl the Young
+Eradan
+Erendis
+Erestor
+Erkenbrand
+Eru Ilúvatar
+Estë
+Estel
+Estelmo
+Fëanor
+Fíli
+Fíriel
+Faniel
+Faramir Took
+Faramir
+Farmer Maggot
+Fastred of Greenholm
+Felaróf
+Female hobbits
+Fengel
+Ferumbras III Took
+Finarfin
+Findis
+Finduilas of Dol Amroth
+Finduilas
+Fingolfin
+Fingon
+Finrod Felagund
+Finvain
+Finwë
+Folcwine
+Forlong the Fat
+Fortinbras II Took
+Fréa
+Fréaláf Hildeson
+Fréawine
+Frór
+Freca
+Fredegar (Fatty) Bolger
+Frerin
+Frodo Baggins
+Fuinur
+Fundin
+Galador
+Galadriel
+Galdor of Gondolin
+Galdor of the Havens
+Galdor the Tall
+Gamil Zirak
+Gamling
+Gandalf
+Gerontius Took
+Ghân-buri-Ghân
+Gil-galad
+Gildor Inglorion
+Gilrain
+Gimilkhâd
+Gimli
+Ginglith
+Girion
+Glóin
+Glóredhel
+Glanhír
+Glaurung
+Glorfindel
+Goldberry
+Goldwine
+Golfimbul
+Gollum
+Gorbag
+Gorlim
+Gormadoc Brandybuck
+Gorthaur
+Gothmog (First Age)
+Gothmog (Third Age)
+Gríma
+Grór
+Gram
+Grimbold
+Grishnákh
+Gwaihir
+Gwathir
+Gwindor
+Háma
+Húrin I
+Húrin II
+Húrin the Tall
+Húrin
+Hador (Steward)
+Hador
+Halbarad
+Haldad
+Haldan
+Haldar
+Haldir (First Age)
+Haldir of Lórien
+Haleth
+Hallas
+Halmir
+Hamfast Gamgee
+Handir
+Hardang
+Hareth
+Helm Hammerhand
+Herion
+Herucalmo
+Herumor
+Hirgon
+Hiril (House of Bëor)
+Hiril (House of Haleth)
+Huan
+Hundar
+Huor
+Hyarmendacil I
+Hyarmendacil II
+Ibûn
+Idril
+Ilúvatar
+Ilmarë
+Imbar
+Imin
+Iminyë
+Imrahil
+Indis
+Inglor
+Ingwë
+Inzilbêth
+Irimë
+Irmo
+Isildur
+Isilmë
+Isilmo
+Isumbras Took
+Ivriniel
+Kíli
+Khîm
+Khamûl
+Kings of Arnor
+Kings of Arthedain
+Kings of Gondor
+Léod
+Lúthien
+Lagduf
+Lalaith
+Legolas
+Lenwë
+Lindir
+Lobelia Sackville-Baggins
+Lotho Sackville-Baggins
+Lugdush
+Lurtz
+Míriel Ar-Zimraphel
+Míriel Serindë
+Mîm
+Mablung
+Maedhros
+Maeglin
+Maglor
+Magor
+Mahtan
+Maiar
+Malach
+Malbeth the Seer
+Mallor
+Malvegil
+Man in the Moon
+Manthor
+Manwë
+Marach
+Mardil Voronwë
+Mauhúr
+Meleth
+Melian
+Meneldil
+Meriadoc Brandybuck
+Minalcar
+Minardil
+Mithrandir
+Morgoth
+Morwen Steelsheen
+Morwen
+Mouth of Sauron
+Muzgash
+Náin I
+Náin II
+Náin
+Námo
+Níniel
+Nóm
+Nahar
+Narmacil I
+Narmacil II
+Narvi
+Nerdanel
+Nessa
+Nienna
+Nienor
+Nimloth
+Nimrodel
+Nori
+Ohtar
+Olórin
+Old Man Willow
+Olwë
+Ondoher
+Ori
+Ornendil
+Orodreth (Steward)
+Orodreth
+Oromë
+Oropher
+Orophin
+Ossë
+Ostoher
+Paladin II Took
+Paladin Took
+Pallando
+Pearl Took
+Pelendur
+Pengolodh
+Peregrin Took
+Pervinca Took
+Pimpernel Took
+Primula Brandybuck
+Princes of Dol Amroth
+Quickbeam Queen Berúthiel
+Rían
+Rómendacil I
+Rómendacil II
+Rúmil
+Radagast
+Rosie Cotton
+Sador
+Saeros
+Salgant
+Salmar
+Samwise Gamgee
+Saruman
+Sauron
+Scatha
+Shadowfax
+Shagrat
+Shelob
+Silmariën
+Singollo
+Siriondil
+Sméagol
+Smaug
+Snowmane
+son of Glóin Óin
+son of Gróin Óin
+Soronto
+Stewards of Gondor
+Strider
+Túrin I
+Túrin II
+Túrin
+Tal-Elmar
+Tar Alcarin
+Tar Aldarion
+Tar Amandil
+Tar Anárion
+Tar Ancalimë
+Tar Ancalimon
+Tar Anducal
+Tar Ardamin
+Tar Atanamir
+Tar Calion
+Tar Calmacil
+Tar Ciryatan
+Tar Elendil
+Tar Falassion
+Tar Herunúmen
+Tar Hostamir
+Tar Meneldur
+Tar Minastir
+Tar Minyatur
+Tar Palantir
+Tar Telemmaitë
+Tar Telemnar
+Tar Telperiën
+Tar Vanimeldë
+Tar- Súrion
+Tarannon Falastur
+Tarcil
+Tarondor of Arnor
+Tarondor of Gondor
+Tata
+Tatië
+Telchar
+Telemnar
+Telumehtar
+Théoden
+Théodred
+Théodwyn
+Thengel
+Thingol
+Thorin I
+Thorin II Oakenshield
+Thorin III Stonehelm
+Thorondir
+Thorondor
+Thráin I
+Thráin II
+Thrór
+Thranduil
+Tilion
+Tinúviel
+Tindomiel
+Tom (Troll)
+Tom Bombadil
+Treebeard
+Trotter
+Tulkas
+Tuor
+Turambar
+Turgon (Steward)
+Turgon
+Ufthak
+Uglúk
+Uinen
+Uldor
+Ulfang
+Ulfast
+Ulmo
+Ulwarth
+Umbardacil
+Undómiel
+Ungoliant
+Uolë Kúvion
+Urwen
+Vána
+Vairë
+Valacar
+Valandil of Andúnië
+Valandil of Arnor
+Valandur
+Varda
+Vardamir Nólimon
+Vidugavia
+Vidumavi
+Vinyarion
+Vorondil the Hunter
+Voronwë
+Walda
+Watcher in the Water
+Will Whitfoot
+William
+Witch-king of Angmar
+Wormtongue
+Wulf
+Yavanna
+Yávien
+Aphrodite
+Apollo
+Ares
+Artemis
+Athena
+Demeter
+Dionysus
+Hades
+Hephaestus
+Hera
+Hermes
+Hestia
+Poseidon
+Zeus
+Aether
+Ananke
+Chaos
+Chronos
+Erebus
+Eros
+Hypnos
+Uranus
+Gaia
+Phanes
+Pontus
+Tartarus
+Thalassa
+Thanatos
+Hemera
+Nyx
+Nemesis
+Arachne
+Caucasian Eagle
+Centaur
+Charybdis
+Chimera
+Empousai
+Gorgon
+Harpy
+Hippalectryon
+Hippocampus
+Icthyocentaur
+Ipotane
+Lamia
+Hydra
+Manticore
+Minotaur
+Mormo
+Ophitaurus
+Satyr
+Synthian Dracanus
+Siren
+Taraxippus
+Telekhines
+Typhon
+Coeus
+Crius
+Cronus
+Hyperion
+Iapetus
+Mnemosyne
+Oceanus
+Phoebe
+Rhea
+Tethys
+Theia
+Themis
+Asteria
+Astraeus
+Atlas
+Aura
+Clymene
+Dione
+Helios
+Selene
+Eos
+Epimetheus
+Eurybia
+Eurynome
+Lelantos
+Leto
+Menoeltius
+Metis
+Ophion
+Pallas
+Perses
+Prometheus
+Styx
+angel
+brownie
+bugbear
+centaur
+chimera
+chupacabra
+cockatrice
+cyclops
+demon
+djinn
+dragon
+draugr
+dryad
+dwarf
+elemental
+elf
+fairy
+faun
+frost giant
+gargoyle
+genie
+ghast
+ghost
+ghoul
+giant
+gnome
+goblin
+golem
+gorgon
+gremlin
+griffon
+hag
+harpy
+hippogriff
+hobgoblin
+homonculus
+hydra
+imp
+incubus
+kappa
+kobold
+kraken
+lamassu
+leprechaun
+lich
+manticore
+mermaid
+merman
+minotaur
+mummy
+naga
+nix
+nymph
+ogre
+oni
+orc
+pegasus
+phoenix
+pixie
+poltergeist
+roc
+sasquatch
+satyr
+selkie
+siren
+spectre
+sphinx
+sprite
+succubus
+sylph
+thunderbird
+troll
+unicorn
+vampire
+valkyrie
+warg
+wendigo
+werewolf
+wight
+witch
+wraith
+wyvern
+yeti
+zombie
+Baldr
+Bragi
+Dellingr
+Forseti
+Freyr
+Heimdallr
+Hermóðr
+Höðr
+Hœnir
+Lóðurr
+Loki
+Máni
+Meili
+Njörðr
+Odin
+Óðr
+Saxnōt
+Thor
+Ullr
+Váli
+Viðarr
+Vé
+Vili
+goddesses
+Baduhenna
+Bil
+Beyla
+Eir
+Ēostre
+Freyja
+Frigg
+Fulla
+Gefjun
+Gersemi
+Gerðr
+Gná
+Gullveig
+Hariasa
+Hlín
+Hretha
+Hnoss
+Ilmr
+Iðunn
+Irpa
+Lofn
+Nanna
+Nerthus
+Njörun
+Rán
+Rindr
+Sága
+Sandraudiga
+Sif
+Sigyn
+Sinthgunt
+Sjöfn
+Skaði
+Snotra
+Sól
+Syn
+Tanfana
+Þrúðr
+Þorgerðr
+Hölgabrúðr
+Vár
+Vör
+Zisa
+Apollo
+Bacchus
+Caelus
+Ceres
+Cupid
+Diana
+Fortuna
+Janus
+Juno
+Jupiter
+Mars
+Mercury
+Minerva
+Neptune
+Nox
+Pluto
+Proserpina
+Saturn
+Sol Invicus
+Spes
+Terra
+Venus
+Veritas
+Vesta
+Vulcan

@@ -1,0 +1,16 @@
+sniper rifle
+assault rifle
+rocket launcher
+mongoose
+warthog
+AK-47
+M4A1S
+M4A4
+Desert Eagle
+energy sword
+SMG
+submachine gun
+MAC-10
+AUG
+AWP
+pistol
